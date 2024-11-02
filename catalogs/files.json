@@ -2,9 +2,27 @@
   "files": [
     {
       "name": "Rebuilding katalog",
-      "path": "catalogs/rebuilding.pdf",
+      "path": "catalogs/KATALOG Rebuilding 1.11.2024.pdf",
       "image": "catalogs/images/rebuilding.png",
       "description": "Katalog proizvoda 2024/25 - fasadne mrežice, dekorativne obloge, lajsne, izolacioni materijal - sve za siguran dom"
+    },
+    {
+      "name": "PVC i ALU lajsne za keramiku",
+      "path": "catalogs/PVC I ALU LAJSNE ZA KERAMIKU Rebuilding.pdf",
+      "image": "catalogs/images/PVC i ALU lajsne za keramiku Rebuilding.png",
+      "description": "Katalog PVC i ALU lajsni za keramiku"
+    },
+    {
+      "name": "Proizvodi od stiropora",
+      "path": "catalogs/PROIZVODI OD STIROPORA Rebuilding.pdf",
+      "image": "catalogs/images/Proizvodi od stiropora Rebuilding.png",
+      "description": "Katalog proizvoda od stiropora"
+    },
+    {
+      "name": "Alati",
+      "path": "catalogs/Alati Rebuilding.pdf",
+      "image": "catalogs/images/Alati Rebuilding.png",
+      "description": "Katalog različitih alata" 
     }
   ]
 }
