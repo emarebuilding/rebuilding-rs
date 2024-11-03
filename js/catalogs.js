@@ -33,5 +33,5 @@ document.addEventListener("DOMContentLoaded", function () {
         .catch(error => {
             console.error("Greška pri učitavanju kataloga:", error);
             container.innerHTML = "<p>Trenutno imamo problem sa učitavanjem kataloga.</p>";
-        });
+        });	
 });
