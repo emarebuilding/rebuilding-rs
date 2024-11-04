@@ -2,8 +2,8 @@
   "files": [
     {
       "name": "Rebuilding katalog",
-      "path": "catalogs/KATALOG Rebuilding 1.11.2024.pdf",
-      "image": "catalogs/images/rebuilding.png",
+      "path": "catalogs/Rebuilding katalog novembar 2024.pdf",
+      "image": "catalogs/images/Rebuilding katalog novembar 2024.png",
       "description": "Katalog proizvoda 2024/25 - fasadne mrežice, dekorativne obloge, lajsne, izolacioni materijal - sve za siguran dom"
     },
     {
@@ -23,6 +23,12 @@
       "path": "catalogs/Alati Rebuilding.pdf",
       "image": "catalogs/images/Alati Rebuilding.png",
       "description": "Katalog različitih alata" 
+    },
+    {
+      "name": "Cenovnik 2024.",
+      "path": "catalogs/Cenovnik 2024.pdf",
+      "image": "catalogs/images/Cenovnik 2024.png",
+      "description": "Rebuilding cenovnik 2024." 
     }
   ]
 }
