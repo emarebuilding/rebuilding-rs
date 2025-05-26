@@ -29,6 +29,18 @@
       "path": "catalogs/CENOVNIK DECEMBAR 2024.pdf",
       "image": "catalogs/images/Cenovnik 2024.png",
       "description": "Rebuilding cenovnik 2024." 
+    },
+    {
+      "name": "TOTAL ALATI CENOVNIK",
+      "path": "catalogs/TOTAL ALATI CENOVNIK.pdf",
+      "image": "catalogs/images/TOTAL ALATI CENOVNIK.png",
+      "description": "Total alati-cenovnik 2025." 
+    },
+    {
+      "name": "Dodatak katalogu",
+      "path": "catalogs/Dodatak katalogu.pdf",
+      "image": "catalogs/images/Dodatak katalogu.png",
+      "description": "Dodatak katalogu 2025." 
     }
   ]
 }
