@@ -41,6 +41,12 @@
       "path": "catalogs/Dodatak katalogu.pdf",
       "image": "catalogs/images/Dodatak katalogu.png",
       "description": "Dodatak katalogu 2025." 
+    },
+{
+      "name": "Aparat za varenje i usisivač",
+      "path": "catalogs/Aparat za varenje i usisivač.pdf",
+      "image": "catalogs/images/Aparat za varenje i usisivač.png",
+      "description": "Aparat za varenje i usisivač" 
     }
   ]
 }
