@@ -1,9 +1,9 @@
 {
   "files": [
     {
-      "name": "Rebuilding katalog",
+      "name": "Katalog - sve za vaš siguran dom",
       "path": "catalogs/Rebuilding katalog novembar 2024.pdf",
-      "image": "catalogs/images/Rebuilding katalog novembar 2024.png",
+      "image": "catalogs/images/sve za vas dom.jpg",
       "description": "Katalog proizvoda 2024/25 - fasadne mrežice, dekorativne obloge, lajsne, izolacioni materijal - sve za siguran dom"
     },
     {
@@ -12,16 +12,11 @@
       "image": "catalogs/images/PRIRODNA KOZMETIKA.png",
       "description": "Katalog prirodne kozmetike"
     },
+ 
     {
-      "name": "Cenovnik 2024.",
-      "path": "catalogs/CENOVNIK DECEMBAR 2024.pdf",
-      "image": "catalogs/images/Cenovnik 2024.png",
-      "description": "Rebuilding cenovnik 2024." 
-    },
-    {
-      "name": "TOTAL ALATI KATALOG I CENOVNIK",
+      "name": "TOTAL ALATI KATALOG",
       "path": "catalogs/TOTAL ALATI KATALOG I CENOVNIK.pdf",
-      "image": "catalogs/images/TOTAL ALATI  KATALOG I CENOVNIK.png",
+      "image": "catalogs/images/total.jpg",
       "description": "Total alati- katalog i cenovnik 2025." 
     },
     {
