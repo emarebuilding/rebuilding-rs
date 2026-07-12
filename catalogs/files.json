@@ -1,6 +1,13 @@
 {
   "files": [
-    {
+ {
+      "name": "AKCIJA",
+      "path": "catalogs/AKCIJA JUL.pdf",
+      "image": "catalogs/images/akcija jul.jpg",
+      "description": "Akcija JUL 2026."
+    },
+   
+ {
       "name": "Katalog - sve za vaš siguran dom",
       "path": "catalogs/Rebuilding katalog novembar 2024.pdf",
       "image": "catalogs/images/sve za vas dom.jpg",
@@ -9,7 +16,7 @@
     {
       "name": "PRIRODNA KOZMETIKA",
       "path": "catalogs/PRIRODNA KOZMETIKA.pdf",
-      "image": "catalogs/images/PRIRODNA KOZMETIKA.png",
+      "image": "catalogs/images/kozmetika.jpg",
       "description": "Katalog prirodne kozmetike"
     },
  
@@ -19,7 +26,14 @@
       "image": "catalogs/images/total.jpg",
       "description": "Total alati- katalog i cenovnik 2025." 
     },
-    {
+ {
+      "name": "Novčanici, kaiševi, torbice, koferi",
+      "path": "catalogs/novcanici kaisevi torbice.pdf",
+      "image": "catalogs/images/novcanici kaisevi torbice.jpg",
+      "description": "..."
+    },
+  
+  {
       "name": "Dodatak katalogu",
       "path": "catalogs/Dodatak katalogu.pdf",
       "image": "catalogs/images/Dodatak katalogu.png",
