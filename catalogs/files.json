@@ -1,6 +1,13 @@
 {
   "files": [
  {
+      "name": "Torbe i tašne",
+      "path": "catalogs/Torbe i tasne.pdf",
+      "image": "catalogs/images/Torbe i tasne.png",
+      "description": "Torbe i tašne- Septembar 2026."
+    },
+ 
+{
       "name": "AKCIJA",
       "path": "catalogs/AKCIJA JUL.pdf",
       "image": "catalogs/images/akcija jul.jpg",
